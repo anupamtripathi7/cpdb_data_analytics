@@ -1,0 +1,25 @@
+Q1. In the first question, we answer the question about the data distribution by creating an ML model which flags officers as “bad cops” or “good cops”. This is done by training the model on data before 2015 and then testing it on data from 2015 onwards. 
+
+Link to Google Colab notebook: (Refer to README for execution instructions)
+https://colab.research.google.com/drive/13KmfroDv8ZJXdK4Limb4vM3OCh3G3rXB
+
+
+Q2. In the second question, we created an ML model which can predict the number of complaints an officer will accrue in upcoming years. We trained the model on data before 2015 and then tested it on data from 2015 onwards. 
+Link to Databricks notebook: 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3088900325675746/4281434282507131/3349831233202429/latest.html
+
+Q3. For this question, we group similar words in different categories from document text using the N-gram model and then try to analyze the differences in the groupings before 2015 and from 2015 onwards.
+
+Link to Google Colab Notebook: (Refer to README for execution instructions)
+https://colab.research.google.com/drive/1Ck1PhS12NVUhW_RnHihbONFcKILQxatq
+
+
+Q4. Developing a model to give a “severity measure” to each document and then analyzing whether the average severity has decreased after 2015
+Link to Databricks notebook: 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3088900325675746/846831505272150/3349831233202429/latest.html
+
+
+
+
+
+

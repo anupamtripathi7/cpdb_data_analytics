@@ -1,0 +1,5 @@
+sklearn
+nltk 
+pandas
+matplotlib
+psycopg2-binary
